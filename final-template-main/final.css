@@ -1,5 +1,5 @@
 /*This is the CSS page for our final template.*/
-I added a border around my header and the color matched the text in my header
+
 .footer p { /* This is how you add styles for only the p text within the footer. */
 	background-color: #cccccc;
 	text-align: center;
@@ -12,32 +12,17 @@ I added a border around my header and the color matched the text in my header
 	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
-	background-color: #AB9F9D;
-	color: #D1BEB0; 
-	border-style: solid;
- 	border-color: #D1BEB0; 
-  	border-width: 10px;
-} 
-
+	background-color: black;
+}
 h4 {
 	font-style: italic;
 	font-size: 40px;
 	font-family: 'Georgia', serif;
 }
-
 h3 {
 	font-size: 30px;
 }
-p {
-	font-size: 20px;
-	font-family: 'Times New Roman', serif; 
-	}
 
-img {
-	float: right;
-	margin-right: 5%;
-	margin-left: 5%;
-}
 
 /*Don't worry about this section yet*/
 @media only screen and (max-width: 767px)
